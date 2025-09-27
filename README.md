@@ -1,28 +1,23 @@
-# network-visualization-demo
-My MS thesis project on DNA splice site prediction using neuro-fuzzy networks.
 markdown
-# DNA Splice Site Prediction using a Neuro-Fuzzy Network
+# Network Visualization Demo
 
-This repository contains the conceptual framework and code structure for my Master's thesis project.
+This repository showcases my initial exploration into graph drawing and network visualization, aligning with my research interests for a PhD position in this field.
 
-## Project Overview
-The goal of this project was to develop an Adaptive Neuro-Fuzzy Inference System (ANFIS) model for the accurate prediction of splice sites in DNA sequences—a fundamental challenge in genomic signal processing and bioinformatics.
+## Project Description
+As a researcher with a background in algorithm design (e.g., neuro-fuzzy systems for bioinformatics), I am fascinated by the challenge of visually representing complex relational data. This repo serves as a starting point for my hands-on learning in this domain.
 
-## Key Skills Demonstrated
-- **Algorithm Design:** Implementation of a hybrid neuro-fuzzy model.
-- **Data Analysis:** Preprocessing and feature extraction from biological sequence data.
-- **Programming:** Core implementation in MATLAB/Python.
+## Contents
+- `simple_network.py`: A basic Python script using the `networkx` and `matplotlib` libraries to generate and visualize a simple graph. This demonstrates my initiative to acquire practical skills in graph visualization.
 
-## Technical Approach
-1.  **Data Preprocessing:** Handling and cleaning genomic datasets.
-2.  **Feature Engineering:** Extracting relevant sequence features.
-3.  **Model Training:** Developing and training the ANFIS model.
-4.  **Validation:** Evaluating model performance using standard metrics.
+## Skills Demonstrated
+- **Programming:** Python
+- **Libraries:** NetworkX, Matplotlib
+- **Core Concept:** Translating abstract graph data into a visual representation.
 
-## Note on Code Availability
-Due to the age of the project and institutional data policies, the full codebase is not currently hosted here. However, I am actively working on recreating the core algorithms in Python and developing new projects focused on data visualization. Please check back soon for updates!
+## Future Direction
+I am actively learning advanced visualization techniques and plan to extend this work to include:
+- Interactive visualizations using Plotly.
+- Applying visualization principles to real-world datasets from bioinformatics.
 
-## Connect with Me
+## Contact
 - **Email:** f.m.mochimi@gmail.com
-- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/fahimeh-moghimi-73254a47?originalSubdomain=ir]
-- Initial commit with project description.
