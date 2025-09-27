@@ -21,3 +21,6 @@ I am actively learning advanced visualization techniques and plan to extend this
 
 ## Contact
 - **Email:** f.m.mochimi@gmail.com
+- markdown
+## Note
+The Python script demonstrates graph creation logic. Full visualization requires installing `matplotlib` and `networkx` libraries.
